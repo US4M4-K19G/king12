@@ -26,9 +26,9 @@ def vx(z):
 
 vx2(B + '\n\n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡠⢤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡴⠟⠃⠀⠀⠙⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀\n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⠋⠀⠀⠀⠀⠀⠀⠘⣆⠀⠀⠀⠀⠀⠀⠀⠀\n')
 vx('             \x1b[1;33m==================================')
-vx('\x1b[1;33m             |\x1b[2;34m[+] Developed : \x1b[2;36mBlack Demon     \x1b[1;33m|')
-vx('\x1b[1;33m             |\x1b[2;34m[+] Telegram  : \x1b[2;36m@BLACK_DEMON_VX \x1b[1;33m|')
-vx('\x1b[1;33m             |\x1b[2;34m[+] Github    : \x1b[2;36mblack-demon-dr7 \x1b[1;33m|')
+vx('\x1b[1;33m             |\x1b[2;34m[+] Developed : \x1b[2;36mUSAMA KING     \x1b[1;33m|')
+vx('\x1b[1;33m             |\x1b[2;34m[+] Telegram  : \x1b[2;36m@US4M4-K19G \x1b[1;33m|')
+vx('\x1b[1;33m             |\x1b[2;34m[+] Github    : \x1b[2;36mUS4M4-K19G \x1b[1;33m|')
 vx('             \x1b[1;33m==================================\n\n')
 vx('\x1b[2;36m(\x1b[1;33m1-\x1b[2;36m) \x1b[1;34mMake Password')
 vx('\x1b[2;36m(\x1b[1;33m2-\x1b[2;36m) \x1b[1;34mHack Instagram')
